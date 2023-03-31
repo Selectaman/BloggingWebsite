@@ -276,3 +276,49 @@
     transform: rotate(0deg);
   }
 }
+
+.navbar ul{
+  display: flex;
+  list-style: none;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+
+}
+
+.navbar ul li{
+  margin: 0 25px;
+}
+
+.main_heading{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.main_heading h1{
+  margin: 0;
+}
+
+.main_heading p{
+  margin: 5px;
+}
+
+.blogs{
+  text-align: center;
+  
+}
+
+.blog h2{
+  margin: 0;
+}
+
+.blog p{
+  margin: 3px;
+}
+
+.blog{
+  text-align: center;
+  margin-bottom: 20px;
+}
